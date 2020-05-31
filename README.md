@@ -23,6 +23,7 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 
 # Example
 The results for a 5-Dof and 7-Dof robot arm are shown below. Despite that the configurations of the results are not exactly same as that of the reference one, the position and orientation of the end effector are accurate placed as we expected after CCD.
+
 <img src="https://github.com/HAOLI-TUKL/Robot_Arm_CCD/blob/master/images/example.png" width="600" height="300" align="middle" />
 
       
