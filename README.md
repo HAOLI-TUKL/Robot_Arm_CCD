@@ -16,8 +16,10 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 
 # Technical Overview
 * Inverse kinematics basically determines position and orientation of end-effector given angles of each joint. Cyclic Coordinate Descent(CCD) is one of the methods to solve the problem effectively. In comparison with other inverse kinematics algorithm, such as Jacobian Inverse and Jacobian Transpose, CCD can take the joint limits into the consideration and is able to be robust to singularity. 
+* Iteration goes along joint by joint and adjust the angles based on the errors of the position and orientation. To be precise, the error of the position is easily defined while the error of the orientation is defined as angle-axis represetation.
+* The adjustment of an iteration is shown as below and the end effector gets closer to the desired configuration after the ajustment. More adjustments would be applied until the errors are small enough.
 
-* my_car package and my_controller mainly deals with the vehicle model and driver for the simulation in Gazebo.
+
 # Example
 ![image](https://github.com/githubleoleo/autonomous_exploration/blob/master/images/astar.png)
 
@@ -27,6 +29,7 @@ video of the simulation can be found :https://www.youtube.com/watch?v=Z0UcYPeM29
 # Maintainers
 githubleoleo leochina2018@163.com     
 Tiehao Wang
+Yihsuan Cheng
 
 # More info
 
