@@ -23,7 +23,8 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 
 # Example
 ![image](https://github.com/HAOLI-TUKL/Robot_Arm_CCD/blob/master/images/example.png)
-    
+<img src="https://github.com/HAOLI-TUKL/Robot_Arm_CCD/blob/master/images/example.png" width="30" height="30" align="middle" />
+
       
 # Maintainers
 githubleoleo leochina2018@163.com     
