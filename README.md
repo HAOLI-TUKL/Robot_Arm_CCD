@@ -26,7 +26,8 @@ video of the simulation can be found :https://www.youtube.com/watch?v=Z0UcYPeM29
       
 # Maintainers
 githubleoleo leochina2018@163.com     
-jasonchenj 
+Tiehao Wang
+
 # More info
 
 # References
