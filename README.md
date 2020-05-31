@@ -19,10 +19,10 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 * Iteration goes along joint by joint and adjust the angles based on the errors of the position and orientation. To be precise, the error of the position is easily defined while the error of the orientation is defined as angle-axis represetation.
 * The adjustment of an iteration is shown as below and the end effector gets closer to the desired configuration after the ajustment. More adjustments would be applied until the errors are small enough.
 
-![image](https://github.com/githubleoleo/Robot_Arm_CCD/tree/master/images/CCD_iteration.png)
+![image](https://github.com/HAOLI-TUKL/Robot_Arm_CCD/tree/master/images/CCD_iteration.png)
 
 # Example
-![image](https://github.com/githubleoleo/autonomous_exploration/blob/master/images/astar.png)
+![image](https://github.com/HAOLI-TUKL/autonomous_exploration/blob/master/images/astar.png)
 
 video of the simulation can be found :https://www.youtube.com/watch?v=Z0UcYPeM29c
     
