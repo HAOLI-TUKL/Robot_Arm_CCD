@@ -35,4 +35,4 @@ Yihsuan Cheng
 # More info
 
 # References
-
+Kenwright B. Inverse kinematicscyclic coordinate descent (CCD)[J]. Journal of Graphics Tools, 2012, 16(4): 177-217.
