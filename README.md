@@ -10,7 +10,7 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 # Usage
 1. enter the workspace
 `cd src`    
-2. enter the workspace
+2. run
 `run main.m`
 
 
