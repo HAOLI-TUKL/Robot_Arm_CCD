@@ -22,9 +22,7 @@ An implementation of  inverse kinematics , named Cyclic Coordinate Descent, for 
 ![image](https://github.com/HAOLI-TUKL/Robot_Arm_CCD/blob/master/images/CCD_iteration.png)
 
 # Example
-![image](https://github.com/HAOLI-TUKL/autonomous_exploration/blob/master/images/astar.png)
-
-video of the simulation can be found :https://www.youtube.com/watch?v=Z0UcYPeM29c
+![image](https://github.com/HAOLI-TUKL/Robot_Arm_CCD/blob/master/images/example.png)
     
       
 # Maintainers
