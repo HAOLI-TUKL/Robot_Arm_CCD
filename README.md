@@ -28,7 +28,7 @@ The results for a 5-Dof and 7-Dof robot arm are shown below. Despite that the co
 
       
 # Maintainers
-githubleoleo leochina2018@163.com     
+Hao Li leochina2018@163.com     
 Tiehao Wang  
 Yihsuan Cheng
 
